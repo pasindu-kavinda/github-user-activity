@@ -30,9 +30,11 @@ Run following commands to list your activities.
 ## Output
 
 Give your GitHub username.
+
 ![GitHub User Activity](./assets/images/image-1.png)
 
 The script will look your activity.
+
 ![GitHub User Activity](./assets/images/image-2.png)
 
 The script will list your activities in the following format.
