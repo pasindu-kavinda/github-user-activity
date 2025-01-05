@@ -1,4 +1,8 @@
 # Github User Activity
+
+![GNU Bash Badge](https://img.shields.io/badge/Shell-4EAA25?logoColor=fff&style=flat)
+![GNU Bash Badge](https://img.shields.io/badge/Gum-bc26c7?logo=gum&logoColor=fff&style=flat)
+
 > Roadmap.sh Project URL: https://roadmap.sh/projects/github-user-activity
 
 ## How to run
@@ -23,3 +27,14 @@ Run following commands to list your activities.
 ```bash
 ./show-my-activity.sh
 ```
+## Output
+
+Give your GitHub username.
+![GitHub User Activity](./assets/images/image-1.png)
+
+The script will look your activity.
+![GitHub User Activity](./assets/images/image-2.png)
+
+The script will list your activities in the following format.
+
+![GitHub User Activity](./assets/images/image-3.png)
